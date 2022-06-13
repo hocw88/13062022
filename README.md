@@ -6,6 +6,7 @@
 &nbsp;&nbsp; 📲 +91-XXXXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [BCG RISE GIVEN URL]([https://datasciencestunt.com/](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/README.md))
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
